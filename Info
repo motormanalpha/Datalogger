@@ -1,0 +1,2 @@
+
+Using Python to control a 34970a datalogger.  Requires pyvisa.  Used a USB to RS232 converter.
